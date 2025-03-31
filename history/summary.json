@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2489,
-    "timeDay": 2489,
-    "timeWeek": 2489,
-    "timeMonth": 2489,
-    "timeYear": 2489,
+    "time": 2671,
+    "timeDay": 2671,
+    "timeWeek": 2671,
+    "timeMonth": 2671,
+    "timeYear": 2671,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 960,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
     "status": "down",
-    "uptime": "7.79%",
-    "uptimeDay": "7.79%",
-    "uptimeWeek": "7.79%",
-    "uptimeMonth": "7.79%",
-    "uptimeYear": "7.79%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 0
+      "2025-03-31": 581,
+      "2025-03-30": 409
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 557,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "time": 580,
+    "timeDay": 580,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   }
 ]

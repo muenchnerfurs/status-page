@@ -4,18 +4,20 @@
     "url": "https://muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2735,
-    "timeDay": 3005,
-    "timeWeek": 2739,
-    "timeMonth": 2735,
-    "timeYear": 2735,
-    "dailyMinutesDown": {}
+    "time": 2691,
+    "timeDay": 2516,
+    "timeWeek": 2650,
+    "timeMonth": 2691,
+    "timeYear": 2691,
+    "dailyMinutesDown": {
+      "2025-04-13": 0
+    }
   },
   {
     "name": "Eventanmeldung (Pretix)",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-13": 53,
+      "2025-04-13": 721,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,

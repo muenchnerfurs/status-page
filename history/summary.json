@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 2577,
     "timeDay": 3293,
-    "timeWeek": 2362,
+    "timeWeek": 2416,
     "timeMonth": 2577,
     "timeYear": 2577,
     "dailyMinutesDown": {
@@ -25,18 +25,20 @@
     "url": "https://reg.muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/reg.muenchner-furs.de.ico",
     "slug": "eventanmeldung-pretix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 1281,
-    "timeWeek": 1008,
-    "timeMonth": 1187,
-    "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "time": 1205,
+    "timeDay": 1446,
+    "timeWeek": 1083,
+    "timeMonth": 1205,
+    "timeYear": 1205,
+    "dailyMinutesDown": {
+      "2025-04-20": 0
+    }
   },
   {
     "name": "furvaria.de",
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 30,
+      "2025-04-20": 849,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
@@ -84,17 +86,19 @@
     "url": "https://donaufurs.de",
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 970,
-    "timeWeek": 686,
-    "timeMonth": 770,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "time": 759,
+    "timeDay": 743,
+    "timeWeek": 665,
+    "timeMonth": 759,
+    "timeYear": 759,
+    "dailyMinutesDown": {
+      "2025-04-20": 0
+    }
   }
 ]

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 2645,
-    "timeDay": 3916,
-    "timeWeek": 2725,
-    "timeMonth": 2645,
-    "timeYear": 2645,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 2677,
+    "timeDay": 3569,
+    "timeWeek": 2900,
+    "timeMonth": 2677,
+    "timeYear": 2677,
     "dailyMinutesDown": {
       "2025-04-15": 35,
       "2025-04-13": 26
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1263,
-    "timeDay": 2156,
+    "time": 1269,
+    "timeDay": 1408,
     "timeWeek": 1333,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "timeMonth": 1269,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-04-20": 11
     }
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 28,
+      "2025-04-23": 28,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -94,11 +95,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 800,
-    "timeDay": 1170,
-    "timeWeek": 837,
-    "timeMonth": 800,
-    "timeYear": 800,
+    "time": 803,
+    "timeDay": 869,
+    "timeWeek": 840,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-04-20": 11
     }

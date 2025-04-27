@@ -4,9 +4,9 @@
     "url": "https://muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 2706,
     "timeYear": 2706,
     "dailyMinutesDown": {
+      "2025-04-27": 0,
       "2025-04-15": 35,
       "2025-04-13": 26
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/reg.muenchner-furs.de.ico",
     "slug": "eventanmeldung-pretix",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1278,
     "timeDay": 1171,
     "timeWeek": 1445,
     "timeMonth": 1278,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2025-04-27": 24,
+      "2025-04-27": 33,
       "2025-04-20": 11
     }
   },
@@ -58,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-27": 689,
+      "2025-04-27": 698,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -95,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 818,
     "timeDay": 908,
     "timeWeek": 907,
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-04-27": 24,
+      "2025-04-27": 33,
       "2025-04-20": 11
     }
   }

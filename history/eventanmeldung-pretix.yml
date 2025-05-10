@@ -1,7 +1,7 @@
 url: https://reg.muenchner-furs.de
-status: up
-code: 200
-responseTime: 909
-lastUpdated: 2025-05-09T23:01:19.567Z
+status: down
+code: 502
+responseTime: 522
+lastUpdated: 2025-05-10T09:36:19.301Z
 startTime: 2025-03-30T17:11:12.486Z
 generator: Upptime <https://github.com/upptime/upptime>

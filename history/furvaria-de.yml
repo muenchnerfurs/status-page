@@ -1,7 +1,7 @@
 url: https://furvaria.de
-status: up
-code: 200
-responseTime: 1245
-lastUpdated: 2025-11-12T23:01:14.013Z
+status: down
+code: 503
+responseTime: 567
+lastUpdated: 2025-11-13T03:29:14.709Z
 startTime: 2025-03-30T17:11:13.739Z
 generator: Upptime <https://github.com/upptime/upptime>

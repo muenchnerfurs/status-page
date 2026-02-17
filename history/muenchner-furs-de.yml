@@ -1,7 +1,7 @@
 url: https://muenchner-furs.de
-status: up
-code: 200
-responseTime: 2464
-lastUpdated: 2026-02-16T23:55:14.241Z
+status: down
+code: 503
+responseTime: 445
+lastUpdated: 2026-02-17T02:20:40.404Z
 startTime: 2025-03-30T17:11:09.714Z
 generator: Upptime <https://github.com/upptime/upptime>

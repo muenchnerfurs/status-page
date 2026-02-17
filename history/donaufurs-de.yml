@@ -1,7 +1,7 @@
 url: https://donaufurs.de
-status: up
-code: 200
-responseTime: 888
-lastUpdated: 2026-02-16T23:04:38.271Z
+status: down
+code: 500
+responseTime: 1852
+lastUpdated: 2026-02-17T02:21:42.267Z
 startTime: 2025-03-30T17:11:16.392Z
 generator: Upptime <https://github.com/upptime/upptime>

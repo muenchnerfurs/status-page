@@ -10,10 +10,10 @@
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.59%",
-    "time": 2670,
-    "timeDay": 2879,
-    "timeWeek": 2803,
-    "timeMonth": 3058,
+    "time": 2669,
+    "timeDay": 2325,
+    "timeWeek": 2761,
+    "timeMonth": 3040,
     "timeYear": 2666,
     "dailyMinutesDown": {
       "2026-04-22": 134,
@@ -48,8 +48,7 @@
       "2025-05-20": 200,
       "2025-05-18": 234,
       "2025-05-10": 13,
-      "2025-05-09": 54,
-      "2025-04-27": 77
+      "2025-05-09": 54
     }
   },
   {
@@ -58,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reg.muenchner-furs.de.ico",
     "slug": "eventanmeldung-pretix",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.62%",
-    "time": 1408,
-    "timeDay": 1575,
-    "timeWeek": 1351,
-    "timeMonth": 1394,
-    "timeYear": 1416,
+    "time": 1407,
+    "timeDay": 1079,
+    "timeWeek": 1363,
+    "timeMonth": 1402,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2026-04-22": 25,
       "2026-03-26": 26,
@@ -88,8 +87,7 @@
       "2025-05-18": 255,
       "2025-05-13": 12,
       "2025-05-10": 27,
-      "2025-05-09": 264,
-      "2025-04-27": 184
+      "2025-05-09": 264
     }
   },
   {
@@ -98,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
     "status": "up",
-    "uptime": "91.56%",
+    "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.44%",
     "time": 1591,
-    "timeDay": 2547,
-    "timeWeek": 2111,
-    "timeMonth": 2142,
+    "timeDay": 1853,
+    "timeWeek": 2092,
+    "timeMonth": 2147,
     "timeYear": 1591,
     "dailyMinutesDown": {
       "2026-03-28": 19,
@@ -136,8 +134,7 @@
       "2025-05-01": 1006,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -149,12 +146,12 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
     "time": 1006,
-    "timeDay": 967,
-    "timeWeek": 909,
-    "timeMonth": 881,
+    "timeDay": 844,
+    "timeWeek": 873,
+    "timeMonth": 896,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2026-04-22": 25,
@@ -174,8 +171,7 @@
       "2025-05-20": 199,
       "2025-05-18": 255,
       "2025-05-10": 27,
-      "2025-05-09": 263,
-      "2025-04-27": 134
+      "2025-05-09": 263
     }
   }
 ]

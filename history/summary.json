@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.63%",
-    "time": 2752,
-    "timeDay": 2616,
-    "timeWeek": 7561,
-    "timeMonth": 3907,
-    "timeYear": 2811,
+    "time": 2773,
+    "timeDay": 12791,
+    "timeWeek": 4057,
+    "timeMonth": 4204,
+    "timeYear": 2836,
     "dailyMinutesDown": {
       "2026-05-03": 21,
       "2026-04-29": 106,
@@ -46,8 +46,7 @@
       "2025-08-31": 25,
       "2025-08-19": 8,
       "2025-06-21": 8,
-      "2025-06-15": 200,
-      "2025-05-20": 200
+      "2025-06-15": 200
     }
   },
   {
@@ -56,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reg.muenchner-furs.de.ico",
     "slug": "eventanmeldung-pretix",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.76%",
-    "time": 1400,
-    "timeDay": 1687,
-    "timeWeek": 1173,
+    "time": 1399,
+    "timeDay": 964,
+    "timeWeek": 1177,
     "timeMonth": 1275,
-    "timeYear": 1394,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2026-04-22": 25,
       "2026-03-26": 26,
@@ -81,8 +80,7 @@
       "2025-10-02": 6,
       "2025-08-31": 22,
       "2025-06-19": 116,
-      "2025-06-18": 27,
-      "2025-05-20": 200
+      "2025-06-18": 27
     }
   },
   {
@@ -91,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
     "status": "up",
-    "uptime": "92.03%",
+    "uptime": "92.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1615,
-    "timeDay": 2421,
-    "timeWeek": 1958,
-    "timeMonth": 2071,
+    "time": 1616,
+    "timeDay": 1734,
+    "timeWeek": 1964,
+    "timeMonth": 2062,
     "timeYear": 1585,
     "dailyMinutesDown": {
       "2026-03-28": 19,
@@ -122,8 +120,7 @@
       "2025-08-31": 34,
       "2025-08-29": 10,
       "2025-06-19": 5,
-      "2025-06-15": 16,
-      "2025-05-20": 199
+      "2025-06-15": 16
     }
   },
   {
@@ -137,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.76%",
-    "time": 998,
-    "timeDay": 1203,
-    "timeWeek": 778,
-    "timeMonth": 860,
-    "timeYear": 1005,
+    "time": 997,
+    "timeDay": 700,
+    "timeWeek": 795,
+    "timeMonth": 845,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2026-04-22": 25,
       "2026-03-26": 26,
@@ -156,8 +153,7 @@
       "2025-10-05": 6,
       "2025-08-31": 22,
       "2025-06-19": 121,
-      "2025-06-18": 26,
-      "2025-05-20": 199
+      "2025-06-18": 26
     }
   }
 ]

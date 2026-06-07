@@ -91,16 +91,16 @@
     "url": "https://furvaria.de",
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
-    "status": "down",
-    "uptime": "92.38%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "92.36%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.78%",
     "time": 1690,
-    "timeDay": 14317,
-    "timeWeek": 4699,
-    "timeMonth": 2793,
+    "timeDay": 10106,
+    "timeWeek": 4397,
+    "timeMonth": 2761,
     "timeYear": 1675,
     "dailyMinutesDown": {
       "2025-06-15": 16,
@@ -125,7 +125,7 @@
       "2026-02-25": 16,
       "2026-03-28": 19,
       "2026-06-04": 74,
-      "2026-06-07": 0
+      "2026-06-07": 105
     }
   },
   {

@@ -90,16 +90,16 @@
     "url": "https://furvaria.de",
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
-    "status": "down",
-    "uptime": "92.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "92.84%",
+    "uptimeDay": "32.36%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.60%",
     "time": 1721,
-    "timeDay": 2446,
-    "timeWeek": 2043,
-    "timeMonth": 2131,
+    "timeDay": 2141,
+    "timeWeek": 2017,
+    "timeMonth": 2121,
     "timeYear": 1744,
     "dailyMinutesDown": {
       "2025-08-29": 10,
@@ -123,7 +123,7 @@
       "2026-03-28": 19,
       "2026-06-04": 74,
       "2026-06-07": 105,
-      "2026-07-15": 0
+      "2026-07-15": 974
     }
   },
   {
@@ -132,7 +132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

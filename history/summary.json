@@ -134,17 +134,17 @@
     "url": "https://donaufurs.de",
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.83%",
     "time": 946,
-    "timeDay": 610,
-    "timeWeek": 702,
-    "timeMonth": 684,
-    "timeYear": 925,
+    "timeDay": 649,
+    "timeWeek": 705,
+    "timeMonth": 685,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2025-10-05": 6,
       "2025-10-25": 24,
@@ -157,7 +157,7 @@
       "2026-03-04": 129,
       "2026-03-26": 26,
       "2026-04-22": 25,
-      "2026-09-17": 0
+      "2026-09-17": 27
     }
   }
 ]

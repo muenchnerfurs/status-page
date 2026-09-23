@@ -4,17 +4,17 @@
     "url": "https://muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "99.40%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.52%",
     "time": 2807,
-    "timeDay": 1826,
-    "timeWeek": 2223,
-    "timeMonth": 2423,
-    "timeYear": 2874,
+    "timeDay": 1624,
+    "timeWeek": 2143,
+    "timeMonth": 2385,
+    "timeYear": 2869,
     "dailyMinutesDown": {
       "2025-10-01": 22,
       "2025-10-02": 31,
@@ -53,7 +53,8 @@
       "2026-09-14": 21,
       "2026-09-17": 23,
       "2026-09-21": 19,
-      "2026-09-22": 26
+      "2026-09-22": 26,
+      "2026-09-23": 0
     }
   },
   {
@@ -95,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/furvaria.de.ico",
     "slug": "furvaria-de",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",

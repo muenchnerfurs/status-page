@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "98.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.44%",
-    "uptimeMonth": "80.31%",
+    "uptimeWeek": "14.33%",
+    "uptimeMonth": "80.29%",
     "uptimeYear": "97.78%",
     "time": 2748,
     "timeDay": 465,
@@ -54,7 +54,7 @@
       "2026-09-25": 439,
       "2026-09-24": 105,
       "2026-10-19": 749,
-      "2026-10-25": 676,
+      "2026-10-25": 687,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -69,9 +69,9 @@
     "slug": "eventanmeldung-pretix",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.82%",
     "time": 1410,
     "timeDay": 873,
@@ -90,7 +90,7 @@
       "2026-04-22": 25,
       "2026-06-04": 74,
       "2026-09-17": 8,
-      "2026-10-25": 1
+      "2026-10-25": 12
     }
   },
   {
@@ -100,9 +100,9 @@
     "slug": "furvaria-de",
     "status": "down",
     "uptime": "93.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "89.46%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.37%",
     "time": 1800,
     "timeDay": 1684,
@@ -132,7 +132,7 @@
       "2026-08-30": 46,
       "2026-10-22": 394,
       "2026-10-21": 668,
-      "2026-10-25": 0
+      "2026-10-25": 11
     }
   },
   {
@@ -140,16 +140,16 @@
     "url": "https://donaufurs.de",
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.83%",
-    "time": 951,
-    "timeDay": 595,
-    "timeWeek": 792,
-    "timeMonth": 877,
+    "time": 952,
+    "timeDay": 767,
+    "timeWeek": 810,
+    "timeMonth": 879,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-11-13": 21,
@@ -162,7 +162,7 @@
       "2026-03-26": 26,
       "2026-04-22": 25,
       "2026-09-17": 27,
-      "2026-10-25": 0
+      "2026-10-25": 11
     }
   }
 ]

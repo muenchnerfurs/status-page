@@ -69,17 +69,17 @@
     "url": "https://reg.muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/reg.muenchner-furs.de.ico",
     "slug": "eventanmeldung-pretix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
-    "time": 1418,
-    "timeDay": 1678,
-    "timeWeek": 1638,
-    "timeMonth": 1375,
-    "timeYear": 1354,
+    "time": 1415,
+    "timeDay": 1175,
+    "timeWeek": 1517,
+    "timeMonth": 1354,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2025-11-13": 21,
       "2026-01-04": 531,
@@ -92,7 +92,8 @@
       "2026-04-22": 25,
       "2026-06-04": 74,
       "2026-09-17": 8,
-      "2026-10-25": 20
+      "2026-10-25": 20,
+      "2026-11-07": 1
     }
   },
   {
@@ -141,17 +142,17 @@
     "url": "https://donaufurs.de",
     "icon": "https://icons.duckduckgo.com/ip3/donaufurs.de.ico",
     "slug": "donaufurs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
-    "time": 943,
-    "timeDay": 857,
-    "timeWeek": 856,
-    "timeMonth": 832,
-    "timeYear": 882,
+    "time": 953,
+    "timeDay": 3336,
+    "timeWeek": 1475,
+    "timeMonth": 983,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-11-13": 21,
       "2026-01-04": 531,
@@ -163,7 +164,8 @@
       "2026-03-26": 26,
       "2026-04-22": 25,
       "2026-09-17": 27,
-      "2026-10-25": 11
+      "2026-10-25": 11,
+      "2026-11-07": 0
     }
   }
 ]

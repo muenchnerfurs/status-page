@@ -4,16 +4,16 @@
     "url": "https://muenchner-furs.de",
     "icon": "https://icons.duckduckgo.com/ip3/muenchner-furs.de.ico",
     "slug": "muenchner-furs-de",
-    "status": "down",
+    "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "79.50%",
-    "uptimeYear": "97.48%",
-    "time": 2739,
-    "timeDay": 1566,
-    "timeWeek": 1892,
-    "timeMonth": 1811,
+    "uptimeYear": "97.47%",
+    "time": 2740,
+    "timeDay": 2069,
+    "timeWeek": 2023,
+    "timeMonth": 1846,
     "timeYear": 2775,
     "dailyMinutesDown": {
       "2025-11-22": 14,
@@ -58,7 +58,7 @@
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-11-04": 92,
-      "2026-11-20": 0
+      "2026-11-20": 5
     }
   },
   {
